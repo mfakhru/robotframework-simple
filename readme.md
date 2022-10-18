@@ -1,2 +1,3 @@
 # robotframework-simple
-simple project using robotframework - open browser
+simple project using robotframework   
+to open browser

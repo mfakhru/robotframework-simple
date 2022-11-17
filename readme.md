@@ -1,3 +1,4 @@
 # robotframework-simple
 simple project using robotframework   
-to open browser
+1. open browser
+2. login github
